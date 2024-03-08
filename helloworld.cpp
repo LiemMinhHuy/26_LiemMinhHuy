@@ -6,5 +6,6 @@ using namespace std;
 int main()
 {
 	cout << "Hello HowKTeam.com!" << endl;
+	cout << end;
 	return 0;
 }
